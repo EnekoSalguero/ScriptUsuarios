@@ -2,6 +2,7 @@ Automatización de Usuarios y Grupos en Active Directory
 
 ## Importante ##
 Para que el script funcione correctamente la estructura de las carpetas no se debe modificar el script debe estar en la misma ubicación que la carpeta CSV.
+
 ---
 Objetivo del Ejercicio
 
